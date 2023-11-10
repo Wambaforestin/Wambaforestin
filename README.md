@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Second year student of the engineering cycle at EPSI Paris, I am preparing a bachelor IT designer integrator DevOps.<br>🤝 Passionate about computer development, cloud computing and the security of information systems, I am working towards my goals in other to put into practice my knowledge and integrate an infrastructure that will permit me to acquire professional experience.<br>
+🔭 I'm a Second year student of the engineering cycle at EPSI Paris, I am preparing a bachelor IT with a specialization in Artificial Intelligence and Data Science.<br>🤝 My passion lies at the intersection of software development, cloud computing, and the vast opportunities presented by data-related fields. I am working towards my goals in other to put into practice my knowledge and integrate an infrastructure that will permit me to acquire professional experience.<br>
 
 
 ## 🌐 Socials:
