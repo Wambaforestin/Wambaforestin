@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wambaforestin&label=Profile%20views&color=0e75b6&style=flat" alt="wambaforestin" /> </p>
 
-- 🔭 I’m currently working on **...Dart (Flutter), C# (.NET) ,PHP (Symphony)  & Web Development (HTML,CSS,JS,TS,Angular,BootStap,TailwindCSS).**
+- 🔭 I’m currently working on **...Dart (Flutter) | C# (.NET) | PHP (Symphony) | Web Development (HTML,CSS,JS,TS,Angular,BootStap,TailwindCSS) | SQL,SQLServer,SQLite.**
 
 - 👯 I’m looking to collaborate with **other developers to engage in a modern projects**
 
