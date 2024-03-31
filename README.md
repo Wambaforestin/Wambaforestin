@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wambaforestin&label=Profile%20views&color=0e75b6&style=flat" alt="wambaforestin" /> </p>
 
 - 🔭 I’m currently working on :
-  -**Dart (Flutter)**
+  - **Dart (Flutter)**
   - **C# (.NET,ASP.NET,WFA)**
   - **PHP (Symphony,Laravel)**
   - **Web Development (HTML,CSS,JS,TS,Angular,Bootstap,TailwindCSS)**
-  - **SQL,SQLServer,SQLite. **
+  - **SQL,SQLServer,SQLite**
 
 - 👯 I’m looking to collaborate with **other developers to engage in a modern projects**
 
