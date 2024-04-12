@@ -7,7 +7,7 @@
   - **Dart (Flutter)**
   - **C# (.NET,ASP.NET,WFA)**
   - **PHP (Symphony)**
-  - **Web Development (HTML,CSS,JS,TS,Angular,Bootstap,TailwindCSS)**
+  - **Web Development (HTML,CSS,JS,TS,Angular,Bootstap)**
   - **SQL,SQLServer,SQLite,Firebase**
 
 - 👯 I’m looking to collaborate with **other developers to engage in a modern projects**
