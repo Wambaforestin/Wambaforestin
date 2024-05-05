@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on :
   - **Dart (Flutter)**
-  - **C# (.NET,ASP.NET,WFA)**
-  - **PHP (Symphony)**
-  - **Web Development ("JS","TS",🅰️ngular Beginner,Bootstap)**
+  - **C# (.NET,ASP.NET Core)**
+  - **Python (Django)**
+  - **JS,TS,🅰️ngular Beginner,Bootstap**
   - **SQL,SQLServer,SQLite,Firebase**
 
 - 👯 I’m looking to collaborate with **other developers to engage in a modern projects**
