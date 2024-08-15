@@ -4,16 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wambaforestin&label=Profile%20views&color=0e75b6&style=flat" alt="wambaforestin" /> </p>
 
 <p> 🔭 I'm currently working on: </p>
- **Low-code tools: FlutterFlow**<br>
+
+  Low-code tools: FlutterFlow<br>
   ------------------------------------------------<br>
- **Backend services: Supabase, Firebase, Buildship**<br>
+  Backend services: Supabase, Firebase, Buildship<br>
   ------------------------------------------------<br>
- **Databases: SQLite, SQL Server**<br>
+  Databases: SQLite, SQL Server<br>
   ------------------------------------------------<br>
- **Programming languages:  <br>
-  - Dart (Flutter)
-  - C# (.NET)
-  - Python (Django)**
+   Programming languages:  <br>
+    - Dart (Flutter)
+    - C# (.NET)
+    - Python (Django)
 
 - 👯 I’m looking to collaborate with **other developers to engage in a modern projects**
 
