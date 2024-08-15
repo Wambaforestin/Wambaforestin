@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Wamba Forestin</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Wamba+Forestin;Welcome+to+my+GitHub+profile!&center=true&size=30">
+</h1>
 
 <h3 align="center">An enthusiast of multiplatform tools, automation tools, and no-code solutions, with a passion for software development and DevOps.</h3>
 
@@ -10,22 +12,11 @@
 
 ### 🔭 I'm currently working on:
 
-#### Low-code tools
-- FlutterFlow
-
-#### Backend services
-- Supabase
-- Firebase
-- Buildship
-
-#### Databases
-- SQLite
-- SQL Server
-
-#### Programming languages
-- Dart (Flutter)
-- C# (.NET)
-- Python (Django)
+| Low-code tools | Backend services | Databases | Programming languages |
+|----------------|-------------------|-----------|------------------------|
+| FlutterFlow    | Supabase          | SQLite    | Dart (Flutter)         |
+|                | Firebase          | SQL Server| C# (.NET)              |
+|                | Buildship         |           | Python (Django)        |
 
 ---
 
@@ -38,4 +29,3 @@
 ---
 
 <p align="center">I am actively seeking opportunities to apply my knowledge and gain professional experience in these fields.</p>
-
