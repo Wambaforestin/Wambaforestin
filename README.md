@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Wamba+Forestin;Welcome+to+my+GitHub+profile!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Wamba+Forestin;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">An enthusiast of multiplatform tools, automation tools, and no-code solutions, with a passion for software development and DevOps.</h3>
@@ -10,13 +10,17 @@
 
 ---
 
-### 🔭 I'm currently working on:
+<h3 align="center">🔭 I'm currently working on:</h3>
+
+<div align="center">
 
 | Low-code tools | Backend services | Databases | Programming languages |
-|----------------|-------------------|-----------|------------------------|
+|:--------------:|:-----------------:|:---------:|:----------------------:|
 | FlutterFlow    | Supabase          | SQLite    | Dart (Flutter)         |
 |                | Firebase          | SQL Server| C# (.NET)              |
 |                | Buildship         |           | Python (Django)        |
+
+</div>
 
 ---
 
