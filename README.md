@@ -17,8 +17,8 @@
 | Low-code tools | Backend services | Databases | Programming languages |
 |:--------------:|:-----------------:|:---------:|:----------------------:|
 | FlutterFlow    | Supabase          | SQLite    | Dart (Flutter)         |
-|                | Firebase          | SQL Server| C# (.NET)              |
-|                | Buildship         |           | Python (Django)        |
+|                | Firebase          | SQL Server| Java                   |
+|                | Buildship         |           | Python (Flask)         |
 
 </div>
 
