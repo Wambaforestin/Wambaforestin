@@ -14,11 +14,12 @@
 
 <div align="center">
 
-| Low-code tools | Backend services | Databases | Programming languages |
-|:--------------:|:-----------------:|:---------:|:----------------------:|
-| FlutterFlow    | Supabase          | SQLite    | Dart (Flutter)         |
-|                | Firebase          | SQL Server| Java                   |
-|                | Buildship         |           | Python (Flask)         |
+| **DevOps Tools**  | **Low-code tools** | **Backend services** | **Databases** | **Programming languages** |
+|:-----------------:|:------------------:|:--------------------:|:-------------:|:--------------------------:|
+| Docker            | FlutterFlow         | Supabase             | SQLite        | Dart (Flutter)             |
+| GitLab CI         |                     | Firebase             | SQL Server    | Java                       |
+| GitHub Actions    |                     | Buildship            | SQL           | Python (Flask)             |
+
 
 </div>
 
