@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Wamba+Forestin;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">An enthusiast of multiplatform tools, automation tools, and no-code solutions, with a passion for software development and DevOps.</h3>
+<h3 align="center">An enthusiast of multiplatform tools, automation tools, and low-code solutions, with a passion for software development and DevOps.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wambaforestin&label=Profile%20views&color=0e75b6&style=flat" alt="wambaforestin" />
