@@ -11,27 +11,29 @@ Créer un code et une automatisation fluides pour l'infrastructure de demain ! �
 
 ---
 
-<h3 align="center">🔭 I'm currently working on:</h3>
+### 🔭 Ma stack Tech. :
 
 <div align="center">
 
-| **DevOps Tools**  | **Low-code tools** | **Backend services** | **Databases** | **Programming languages** |
-|:-----------------:|:------------------:|:--------------------:|:-------------:|:--------------------------:|
-| Docker            | FlutterFlow         | Supabase             | SQLite        | Dart (Flutter)             |
-| GitLab CI         |                     | Firebase             | SQL Server    | Java                       |
-| GitHub Actions    |                     | Buildship            | SQL           | Python (Flask)             |
-
+| **Outils DevOps** | **Outils low-code** | **Services backend** | **Bases de données** | **Langages de programmation** |
+|:-----------------:|:-------------------:|:---------------------:|:--------------------:|:------------------------------:|
+| Docker            | FlutterFlow         | Supabase             | SQLite              | Dart (Flutter)                 |
+| GitLab CI         |                     | Firebase             | SQL Server          | Java                           |
+| GitHub Actions    |                     | Buildship            | SQL                 | Python (Flask)                 |
+| Shell scripting   |                     |                      |                     |                                |
 
 </div>
 
 ---
 
-### 👯 I'm looking to collaborate on
-- Modern projects with other developers
+### 🎓 Mes certifications
+- [**Git et GitHub**](https://www.linkedin.com/learning/certificates/8603c8548629d0dcfed5f0f3a0b89cae2da6c794580c6f678f8172c7d0af349d) - LinkedIn Learning
 
-### 🌱 Education
-- Pursuing a bachelor's degree in DevOps and Fullstack Development
+### 🌱 Formation
+- Bachelor en DevOps et Développement Fullstack
 
 ---
 
-<p align="center">I am actively seeking opportunities to apply my knowledge and gain professional experience in these fields.</p>
+<p align="center">Je cherche activement des opportunités pour appliquer mes connaissances et acquérir de l'expérience professionnelle dans ces domaines.</p>
+
+---
