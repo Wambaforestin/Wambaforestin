@@ -19,7 +19,7 @@ CrÃ©er un code et une automatisation fluides pour l'infrastructure de demain ! ð
 |:-----------------:|:-------------------:|:---------------------:|:--------------------:|:------------------------------:|
 | Docker            | FlutterFlow         | Supabase             | SQLite              | Dart (Flutter)                 |
 | GitLab CI         |                     | Firebase             | SQL Server          | Java                           |
-| GitHub Actions    |                     | Buildship            | SQL                 | Python (Flask)                 |
+| GitHub Actions    |                     | Buildship            | SQL                 | Python, Flask                  |
 | Shell scripting   |                     |                      |                     |                                |
 
 </div>
