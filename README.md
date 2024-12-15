@@ -8,6 +8,7 @@ Creating smooth code and automation for tomorrow's infrastructure! 🚀 | CodeOp
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wambaforestin&label=Profile%20views&color=0e75b6&style=flat" alt="wambaforestin" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/Wambaforestin/github-readme-stats)
 </p>
 
 ---
