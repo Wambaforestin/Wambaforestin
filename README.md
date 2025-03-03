@@ -18,9 +18,9 @@ Creating smooth code and automation for tomorrow's infrastructure! 🚀 | CodeOp
 | **DevOps Tools** | **Low-code Tools** | **Backend Services** | **Databases** | **Programming Languages/Framework** |
 |:---------------:|:-----------------:|:------------------:|:-------------:|:------------------------:|
 | Docker          | FlutterFlow       | Supabase          | SQLite        | Dart (Flutter)           |
-| GitLab CI       |                   | Firebase          | SQL Server    | Python, Flask, Django, Frappe |
+| GitLab CI       |                   | Firebase          | SQL Server    | Python, Flask, Django, FastAPI |
 | GitHub Actions  |                   | Buildship         | PostgreSQL    | JS, Vue.js               |
-| Shell scripting |                   |                   |               | PHP, symfony             |
+| Shell scripting |                   |                   | MySQL              | PHP, symfony             |
 |                 |                   |                   |               |                          |
 
 </div>
