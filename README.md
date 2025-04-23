@@ -27,11 +27,11 @@ Creating smooth code and automation for tomorrow's infrastructure! 🚀 | CodeOp
 
 ---
 
-### 🎓 My Certifications
-- [**Git and GitHub**](https://www.linkedin.com/learning/certificates/8603c8548629d0dcfed5f0f3a0b89cae2da6c794580c6f678f8172c7d0af349d) - LinkedIn Learning
-
+### 🛠️ Part-time Duties as a pationate Low-code Developer  
+- [**Check here for more**](https://dev-projets-innovants.github.io/FFWeb/) – Demonstrates proficiency in `Flutter/Flutterflow` and `BaaS`.
+  
 ### 🌱 Education
-- Bachelor's in DevOps and Full-stack Development
+- Bachelor's In AI and Data Sciences (underway)
 
 ---
 
