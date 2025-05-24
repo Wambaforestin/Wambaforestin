@@ -28,7 +28,8 @@ Creating smooth code and automation for tomorrow's infrastructure! 🚀 | CodeOp
 ---
 
 ### 🛠️ Part-time Duties as a pationate Low-code Developer  
-- [**Check here for more**](https://dev-projets-innovants.github.io/FFWeb/) – Demonstrates proficiency in `Flutter&Flutterflow` and `BaaS`.
+- [**Check here for more**](https://dev-projets-innovants.github.io/FFWeb/) – Demonstrates proficiency in `Flutter&Flutterflow`, `web development ` and `BaaS`.
+- [**GitHub Repository **](https://github.com/Dev-Projets-Innovants) - Code & hosting service
   
 ### 🌱 Education
 - Bachelor's In AI and Data Sciences (underway)
