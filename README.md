@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://stats-github-readme.vercel.app/api?username=Wambaforestin&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Wambaforestin&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Wambaforestin&layout=compact&theme=tokyonight&hide=html,css&langs_count=10" height="170"/>
 </p>
 
 
