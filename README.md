@@ -6,7 +6,7 @@
 
 ## Mes statistiques générales
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wambaforestin&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://stats-github-readme.vercel.app/api?username=Wambaforestin&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wambaforestin&layout=compact&theme=tokyonight&langs_count=6)
+![Top Langs](https://stats-github-readme.vercel.app/api/top-langs/?username=Wambaforestin&layout=compact&theme=tokyonight)
 
